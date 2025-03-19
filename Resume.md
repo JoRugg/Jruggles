@@ -11,8 +11,8 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 ## Education
 ---
 <h3>University of California, San Diego</h3> <div style="text-align: right"> Graduating: June 2025</div>
-B.S. Mathematics - Computer Science <div style="text-align: right">3.891 GPA</div>
-**Minors:** Urban Studies & Planning; Dance 
+B.S. Mathematics - Computer Science <div style="text-align: right"> 3.891 GPA</div>  
+**Minors:** Urban Studies & Planning; Dance  
 **Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization, Statistical Methods
 
 ## Experience
