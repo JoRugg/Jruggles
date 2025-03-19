@@ -1,5 +1,8 @@
-# Dependencies
 remote_theme: fongandrew/hydeout
+
+# Dependencies
+markdown:     kramdown
+highlighter:  rouge
 
 # Home Page Setup
 title:        'Jordan Ruggles'
@@ -8,8 +11,7 @@ description:  'A corner of the Internet where I can consolidate my projects, sha
 url:          https://jorugg.github.io
 baseurl:      '/jruggles'
 
-author:        
-  name:       'Jordan Ruggles'
+author:       'Jordan Ruggles'
 
 paginate:     5
 
