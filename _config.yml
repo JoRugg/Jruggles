@@ -1,7 +1,7 @@
 remote_theme: fongandrew/hydeout
 
 # Dependencies
-#markdown:     kramdown
+markdown:     kramdown
 #highlighter:  rouge
 
 # Home Page Setup
