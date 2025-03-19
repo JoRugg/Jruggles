@@ -1,1 +1,22 @@
+# Dependencies
 remote_theme: fongandrew/hydeout
+
+# Home Page Setup
+title:        'Jordan Ruggles'
+tagleine:     'Hopefully within walking distance of an Internet Pitstop in case something breaks down'
+description:  'A corner of the Internet where I can consolidate my projects, share what I\'m comfortable sharing, & stash away a time capsule of joy.'
+url:          https://jorugg.github.io
+baseurl:      '/jruggles'
+
+author:        
+  name:       'Jordan Ruggles'
+
+paginate:     5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+sidebar_home_link: true
+  
