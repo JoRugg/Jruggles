@@ -1,4 +1,4 @@
-remote_theme: poole/hyde
+remote_theme: fongandrew/hydeout
 
 # Dependencies
 #markdown:     kramdown
@@ -18,3 +18,5 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+
+sidebar_home_link:  true
