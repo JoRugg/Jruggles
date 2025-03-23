@@ -20,36 +20,32 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 ## Experience
 ---
 <h3>San Diego Supercomputer Center: Developer Intern</h3> <div style="text-align: right"> June 2023 - Present</div>  
-<ul style="list-style-position: inside">
-    <li>Collaborating with ten developers to modernize an Alzheimer's research database, built with React, SQL, and Go.</li>
-    <li>Frequently transitioning between different areas of development, integrating and adjusting UI elements to best fit the needs and feedback of stakeholders.</li>
-    <li>Solving problems through effective communication between developers in daily meetings and pair programming sessions.</li>
-    <li>Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.</li>
-</ul>
+
+- Collaborating with ten developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
+- Frequently transitioning between different areas of development, integrating and adjusting UI elements to best fit the needs and feedback of stakeholders.
+- Solving problems through effective communication between developers in daily meetings and pair programming sessions.
+- Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
 <h3>UC San Diego: CSE Tutor</h3> <div style="text-align: right"> September 2022 - Present</div>  
-<ul style="list-style-position: inside">
-    <li>Aid students in understanding and solving programming assignments through one-on-one tutor sessions and class discussion boards.</li>
-    <li>Deepened familiarity with and understanding of Java and C languages.</li>
-    <li>Assist instructors grade assignments, proofread writeups, and communicate common questions from students so instructors could best adjust to accommodate student needs.</li>
-    <li>Applied prior knowledge and problem-solving workflow from other classes to guide students through debugging code and contextualizing course concepts in the assignments.</li>
-</ul>
 
+- Aid students in understanding and solving programming assignments through one-on-one tutor sessions and class discussion boards.
+- Deepened familiarity with and understanding of Java and C languages.
+- Assist instructors grade assignments, proofread writeups, and communicate common questions from students so instructors could best adjust to accommodate student needs.
+- Applied prior knowledge and problem-solving workflow from other classes to guide students through debugging code and contextualizing course concepts in the assignments.
+  
 ## Extracurricular Activities
 ---
 ### Dance
-<ul>
-    <li>Actively communicated with coaches as color guard captain, lead warmups, and aided in choreographing routines.</li>
-    <li>Experimenting with the limits of the body and developing trust with dancers through ensemble and performances in and around UCSD.</li>
-    <li>Always willing to dive into new styles of movement and thinking.</li>
-</ul>
+
+- Actively communicated with coaches as color guard captain, lead warmups, and aided in choreographing routines.
+- Experimenting with the limits of the body and developing trust with dancers through ensemble and performances in and around UCSD.
+- Always willing to dive into new styles of movement and thinking.
 
 ### Taekwondo
-<ul>
-    <li>Earned a 3rd Degree Black Belt through physical and mental dedication to master techniques and Poomsae.</li>
-    <li>Served as an assistant instructor, leading classes and applying a mastery of techniques to teach and train new students.</li>
-    <li>Maintaining knowledge of Taekwondo through active attendance and participation in UCSD's Taekwondo club.</li>
-</ul>
+
+- Earned a 3rd Degree Black Belt through physical and mental dedication to master techniques and Poomsae.
+- Served as an assistant instructor, leading classes and applying a mastery of techniques to teach and train new students.
+- Maintaining knowledge of Taekwondo through active attendance and participation in UCSD's Taekwondo club.
 
 ## Technical Skills
 ---
