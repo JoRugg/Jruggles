@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "US RSE Conference: Day 3"
+title: "US RSE Conference: Day 0"
 categories:
     - Software Development
 tags:
