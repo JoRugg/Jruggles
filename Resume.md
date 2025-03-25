@@ -4,15 +4,11 @@ title: Resume
 sidebar_link: true
 ---
 
-<i class="cis-star" text-align="left"></i>
-
-## Objective
+## <i class="cis-star">::before</i> Objective
 ---
 Earnest UCSD undergraduate seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. Punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities.
 
-<i class="cis-school" text-align="left"></i>
-
-## Education
+## <i class="cis-school">::before</i> Education
 ---
 <h3>University of California, San Diego</h3> <div style="text-align: right"> Graduating: June 2025</div>
 
@@ -21,9 +17,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 **Minors:** Urban Studies & Planning; Dance  
 **Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization, Statistical Methods
 
-<i class="cis-briefcase" text-align="left"></i>
-
-## Experience
+## <i class="cis-briefcase">::before</i> Experience
 ---
 <h3>San Diego Supercomputer Center: Developer Intern</h3> <div style="text-align: right"> June 2023 - Present</div>  
 
@@ -39,9 +33,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 - Assist instructors grade assignments, proofread writeups, and communicate common questions from students so instructors could best adjust to accommodate student needs.
 - Applied prior knowledge and problem-solving workflow from other classes to guide students through debugging code and contextualizing course concepts in the assignments.
   
-<i class="cis-basketball" text-align="left"></i>
-
-## Extracurricular Activities
+## <i class="cis-basketball">::before</i> Extracurricular Activities
 ---
 ### Dance
 
@@ -55,8 +47,6 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 - Served as an assistant instructor, leading classes and applying a mastery of techniques to teach and train new students.
 - Maintaining knowledge of Taekwondo through active attendance and participation in UCSD's Taekwondo club.
 
-<i class="cis-puzzle" text-align="left"></i> 
-
-## Technical Skills
+## <i class="cis-puzzle">::before</i> Technical Skills
 ---
 Java, JUnit, JDB, C++, HTML, CSS, JavaScript, React, Python, Sage, Jupyter Notebooks, C, Assembly, GDB, Kotlin, Jetpack Compose, Git, Vim, Android Studio, MATLAB, Microsoft Office, Google Workspace, LaTeX, ArcGIS Pro
