@@ -2,11 +2,11 @@ remote_theme: fongandrew/hydeout
 
 # Dependencies
 markdown:     kramdown
-#highlighter:  rouge
+highlighter:  rouge
 
 # Home Page Setup
 title:       'Jordan Ruggles'
-description: 'Ideally within walking distance of an Internet Pitstop for when something breaks down'
+description: 'Ideally within walking distance of an Internet Pitstop in case something breaks down.'
 #description: 'A corner of the Internet where I can consolidate my projects, share what I\'m comfortable sharing, & stash away a time capsule of joy.'
 url:          https://jorugg.github.io
 
