@@ -11,7 +11,8 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 
 ## <i class="cis-school"></i> Education
 
-<h3>University of California, San Diego</h3> <div style="text-align: right"> Graduating: June 2025</div>
+<h3 style="display: inline">University of California, San Diego</h3> 
+<div style="float: right"> Graduating: June 2025</div>
 
 #### B.S. Mathematics - Computer Science  
 **GPA: 3.891**  
@@ -21,14 +22,16 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 
 ## <i class="cis-briefcase"></i> Experience
 
-<h3>San Diego Supercomputer Center: Developer Intern </h3> <div style="text-align: right"> June 2023 - Present</div>
+<h3 style="display: inline">San Diego Supercomputer Center: <br>Developer Intern</h3>
+<div style="float: right"> June 2023 - Present</div>
 
 - Collaborating with ten developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
 - Frequently transitioning between different areas of development, integrating and adjusting UI elements to best fit the needs and feedback of stakeholders.
 - Solving problems through effective communication between developers in daily meetings and pair programming sessions.
 - Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
-<h3>UC San Diego: CSE Tutor</h3> <div style="text-align: right;"> September 2022 - Present</div>  
+<h3 style="display: inline">UC San Diego: <br>CSE Tutor</h3>
+<div style="float: right"> September 2022 - Present</div>  
 
 - Aid students in understanding and solving programming assignments through one-on-one tutor sessions and class discussion boards.
 - Deepened familiarity with and understanding of Java and C languages.
