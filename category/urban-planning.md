@@ -3,4 +3,4 @@ layout: category
 title: Urban Planning
 ---
 
-A collection of GIS, Geographic Information Systems, projects which demonstrate my interest and skill within urban planning
+<p class="message"> This will be a collection of GIS, Geographic Information Systems, projects which demonstrate my interest and skill within urban planning </p>
