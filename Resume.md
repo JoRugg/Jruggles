@@ -16,8 +16,11 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
     <div class="work-period">Graduating: June 2025</div>
 </div>
 
-#### B.S. Mathematics - Computer Science  
-**GPA: 3.891**  
+<div>
+    <h4 class="work-title">B.S. Mathematics - Computer Science</h3> 
+    <h4 class="work-period">GPA: 3.891</div>
+</div>
+
 **Minors:** Urban Studies & Planning; Dance  
 **Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization, Statistical Methods
 
@@ -46,13 +49,17 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 
 ## <i class="cil-basketball resume-icon"></i> Extracurricular Activities
 
-### Dance
+<div>
+    <h3 class="work-title">Dance</h3>
+</div>
 
 - Actively communicated with coaches as color guard captain, lead warmups, and aided in choreographing routines.
 - Experimenting with the limits of the body and developing trust with dancers through ensemble and performances in and around UCSD.
 - Always willing to dive into new styles of movement and thinking.
 
-### Taekwondo
+<div>
+    <h3 class="work-title">Taekwondo</h3>
+</div>
 
 - Earned a 3rd Degree Black Belt through physical and mental dedication to master techniques and Poomsae.
 - Served as an assistant instructor, leading classes and applying a mastery of techniques to teach and train new students.
