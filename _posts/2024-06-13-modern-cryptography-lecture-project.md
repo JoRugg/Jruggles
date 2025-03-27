@@ -9,6 +9,7 @@ tags:
     - Sage
     - Math
     - Software Development
+    - Projects
 ---
 
 temp

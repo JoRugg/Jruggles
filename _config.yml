@@ -12,7 +12,7 @@ url:          https://jorugg.github.io
 
 author:       'Jordan Ruggles'
 
-paginate:     5
+paginate:     3
 
 plugins:
   - jekyll-feed
