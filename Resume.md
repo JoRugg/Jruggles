@@ -4,15 +4,17 @@ title: Resume
 sidebar_link: true
 ---
 
-## <i class="cis-star"></i> Objective
+## <i class="cil-star"></i> Objective
 
 Earnest UCSD undergraduate seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. Punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities.
 
 
-## <i class="cis-school"></i> Education
+## <i class="cil-school"></i> Education
 
-<h3 style="display: inline">University of California, San Diego</h3> 
-<div style="float: right"> Graduating: June 2025</div>
+<div>
+    <h3 style="display: inline">University of California, <br>San Diego</h3> 
+    <div style="float: right">Graduating: June 2025</div>
+</div>
 
 #### B.S. Mathematics - Computer Science  
 **GPA: 3.891**  
@@ -20,18 +22,21 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 **Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization, Statistical Methods
 
 
-## <i class="cis-briefcase"></i> Experience
-
-<h3 style="display: inline">San Diego Supercomputer Center: <br>Developer Intern</h3>
-<div style="float: right"> June 2023 - Present</div>
+## <i class="cil-briefcase"></i> Experience
+<div>
+    <h3 style="display: inline">San Diego Supercomputer Center: <br>Developer Intern</h3>
+    <div style="float: right">June 2023 - Present</div>
+</div>
 
 - Collaborating with ten developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
 - Frequently transitioning between different areas of development, integrating and adjusting UI elements to best fit the needs and feedback of stakeholders.
 - Solving problems through effective communication between developers in daily meetings and pair programming sessions.
 - Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
-<h3 style="display: inline">UC San Diego: <br>CSE Tutor</h3>
-<div style="float: right"> September 2022 - Present</div>  
+<div>
+    <h3 style="display: inline">UC San Diego: <br>CSE Tutor</h3>
+    <div style="float: right">September 2022 - Present</div>  
+</div>
 
 - Aid students in understanding and solving programming assignments through one-on-one tutor sessions and class discussion boards.
 - Deepened familiarity with and understanding of Java and C languages.
@@ -39,7 +44,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 - Applied prior knowledge and problem-solving workflow from other classes to guide students through debugging code and contextualizing course concepts in the assignments.
 
 
-## <i class="cis-basketball"></i> Extracurricular Activities
+## <i class="cil-basketball"></i> Extracurricular Activities
 
 ### Dance
 
@@ -54,6 +59,6 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 - Maintaining knowledge of Taekwondo through active attendance and participation in UCSD's Taekwondo club.
 
 
-## <i class="cis-school"></i> Technical Skills
+## <i class="cil-puzzle"></i> Technical Skills
 
 Java, JUnit, JDB, C++, HTML, CSS, JavaScript, React, Python, Sage, Jupyter Notebooks, C, Assembly, GDB, Kotlin, Jetpack Compose, Git, Vim, Android Studio, MATLAB, Microsoft Office, Google Workspace, LaTeX, ArcGIS Pro
