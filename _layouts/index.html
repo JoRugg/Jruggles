@@ -3,12 +3,12 @@ layout: default
 ---
 
 <div class="content">
-  {% include pagination-newer.html %}
 
   {{ content }}
 
+  {% include pagination-newer.html %}
+
   {% for post in paginator.posts %}
-  {% if post.tags contains "Projects" %}
   <article class="post-body">
     <h2 class="post-title">
       <a href="{{ post.url | relative_url }}">
@@ -37,7 +37,6 @@ layout: default
       {% endif %}
     {% endif %}
   </article>
-  {% endif %}
   {% endfor %}
 
   {% include pagination-older.html %}
