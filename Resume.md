@@ -4,15 +4,15 @@ title: Resume
 sidebar_link: true
 ---
 
-## <i class="cil-star"></i> Objective
+## <i class="cil-star" style="margin-top: 1.5rem;"></i> Objective
 
 Earnest UCSD undergraduate seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. Punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities.
 
 
-## <i class="cil-school"></i> Education
+## <i class="cil-school" style="margin-top: 1.5rem;"></i> Education
 
 <div>
-    <h3 style="display: inline">University of California, <br>San Diego</h3> 
+    <h3 style="display: inline">University of California, San Diego</h3> 
     <div style="float: right">Graduating: June 2025</div>
 </div>
 
@@ -22,9 +22,9 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 **Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization, Statistical Methods
 
 
-## <i class="cil-briefcase"></i> Experience
+## <i class="cil-briefcase" style="margin-top: 1.5rem;"></i> Experience
 <div>
-    <h3 style="display: inline">San Diego Supercomputer Center: <br>Developer Intern</h3>
+    <h3 style="display: inline">San Diego Supercomputer Center: Developer Intern</h3>
     <div style="float: right">June 2023 - Present</div>
 </div>
 
@@ -34,7 +34,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 - Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
 <div>
-    <h3 style="display: inline">UC San Diego: <br>CSE Tutor</h3>
+    <h3 style="display: inline">UC San Diego: CSE Tutor</h3>
     <div style="float: right">September 2022 - Present</div>  
 </div>
 
@@ -44,7 +44,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 - Applied prior knowledge and problem-solving workflow from other classes to guide students through debugging code and contextualizing course concepts in the assignments.
 
 
-## <i class="cil-basketball"></i> Extracurricular Activities
+## <i class="cil-basketball" style="margin-top: 1.5rem;"></i> Extracurricular Activities
 
 ### Dance
 
@@ -59,6 +59,6 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 - Maintaining knowledge of Taekwondo through active attendance and participation in UCSD's Taekwondo club.
 
 
-## <i class="cil-puzzle"></i> Technical Skills
+## <i class="cil-puzzle" style="margin-top: 1.5rem;"></i> Technical Skills
 
 Java, JUnit, JDB, C++, HTML, CSS, JavaScript, React, Python, Sage, Jupyter Notebooks, C, Assembly, GDB, Kotlin, Jetpack Compose, Git, Vim, Android Studio, MATLAB, Microsoft Office, Google Workspace, LaTeX, ArcGIS Pro
