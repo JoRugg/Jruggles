@@ -2,7 +2,7 @@
 layout: post
 title: "Colorado Wildfire Risk Assessment"
 categories:
-    - Urban Planning
+    - Projects
 tags:
     - GIS
     - Urban Planning

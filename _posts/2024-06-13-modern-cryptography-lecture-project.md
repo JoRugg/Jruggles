@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Lecture: Elliptic Curve Cryptography over Non-prime Finite Fields"
 categories:
-    - Software Development
+    - Projects
 tags:
     - Python
     - Jupyter

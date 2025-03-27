@@ -2,7 +2,7 @@
 layout: post
 title: "Denver Bike Safety Analysis"
 categories:
-    - Urban Planning
+    - Projects
 tags:
     - GIS
     - Urban Planning

@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Raytracer"
 categories:
-    - Software Development
+    - Projects
 tags:
     - Math
     - Software Development
