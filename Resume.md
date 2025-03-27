@@ -2,6 +2,7 @@
 layout: default
 title: Resume
 sidebar_link: true
+sidebar_sort_order: 2
 ---
 
 ## <i class="cil-star resume-icon"></i> Objective

@@ -10,7 +10,7 @@ tags:
     - Math
     - Software Development
     - Projects
-published: true
+published: false
 ---
 
 temp

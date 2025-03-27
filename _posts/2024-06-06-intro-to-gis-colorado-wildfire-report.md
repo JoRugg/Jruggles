@@ -7,7 +7,7 @@ tags:
     - GIS
     - Urban Planning
     - Projects
-published: true
+published: false
 ---
 
 temp
