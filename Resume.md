@@ -17,7 +17,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 </div>
 
 <div>
-    <h4 class="work-title">B.S. Mathematics - Computer Science</h3> 
+    <h4 class="work-title">B.S. Mathematics - Computer Science</h4> 
     <h4 class="work-period">GPA: 3.891</h4>
 </div>
 
