@@ -4,4 +4,4 @@ title: Projects
 sidebar_sort_order: 3
 ---
 
-<p class="message">This will be a blog consolidating my academic, professional, and personal projects.</p>
+<p class="message">This will be a blog consolidating my academic, professional, and personal projects, highlighting what I learned in the process.</p>
