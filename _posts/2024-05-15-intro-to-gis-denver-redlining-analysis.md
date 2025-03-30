@@ -8,6 +8,7 @@ tags:
     - Urban Planning
     - Projects
 published: false
+comments: false
 excerpt_separator:  <!--more-->
 ---
 

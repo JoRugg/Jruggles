@@ -11,6 +11,7 @@ tags:
     - Software Development
     - Projects
 published: false
+comments: false
 ---
 
 temp
