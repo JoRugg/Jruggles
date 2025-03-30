@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating a Lecture: Elliptic Curve Cryptography over Non-prime Finite Fields"
+title: "Creating a Cryptography Lecture"
 categories:
     - Projects
 tags:
