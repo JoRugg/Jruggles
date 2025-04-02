@@ -6,10 +6,8 @@ categories:
 tags:
     - GIS
     - Urban Planning
-    - Projects
 published: false
 comments: false
 excerpt_separator:  <!--more-->
 ---
 
-temp

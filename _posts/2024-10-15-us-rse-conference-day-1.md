@@ -1,15 +1,29 @@
 ---
 layout: post
-title: "US RSE Conference: Day 1"
+title: "US-RSE'24 Conference: Day 1"
 categories:
     - Career Blog
 tags:
     - Research Software Engineering
-    - Conference
     - Software Development
-published: false
+published: true
 comments: false
 hidden: true
+excerpt_separator:  <!--more-->
 ---
 
-temp
+Waking up early is something I'm used to with 8 a.m. classes and a long commute to school, but the time change was not doing me any favors. After some initial confusion trying to find the correct conference hall in the convention center, I sat down with the rest of SDSC for breakfast before the conference officially kicked off with an introductory keynote on the history and trajectory of the US-RSE Association. To my surprise, the US-RSE Association is relatively young, and this is only their second conference ever, which was hard to believe with how full and well organized everything was. Props to everyone that made this conference possible. <!--more-->
+
+With the conclusion of the keynote speech, there was a short break before we headed downstairs for a presentations on RSE Pedagogy. There were several presenters with various topics, including SDSC. The SDSC presentation highlighted the goal of creating an effective and equitable program, landing on the current framework of a summer project led by other student interns to introduce the scrum development process, before being dispersed to work on real research software for labs across UCSD. Another talk which piqued my interest was focused on teaching prospective research software engineers at the University of Chicago, echoing a feeling I know all too well as a CSE tutor, the challenge of meeting students where they are in their education while also guiding them to advance their individual projects and goals.
+
+At the end of all the presentations, there was a little bit of time to spare before lunch, so we started chatting, introducing ourselves, and generally networking. I've always struggled with networking since I never want to talk over someone, nor do I feel comfortable presenting myself because I always feel like I'm either bragging or exaggerating. I'm normally a shy, anxious person, so the whole conference setting is a jump in the deep end for me. It was also incredibly intimidating as a student trying to break into a conversation with a bunch of successful researchers, but that quickly wore off as I remembered that we're all people first, and just about everyone is willing and eager to talk. For now, at least I could always find familiar people from SDSC to talk.
+
+After lunch, I joined a workshop brainstorming ideas on how to create an RSE master's program. The workshop was structured as a small group discussion before reconvening to share what we came up with. Our group was tasked with planning how to build curriculum and source instructional staff. We pitched the idea of building the program as a specialization of an existing department, similar to how many CS departments started as an offshoot of their universities math departments, but I had to interject with hesitation because of my experience taking courses like this for my major. Multiple departments having the same class as a major requirement leads to an overwhelming amount of students trying to take the same class, and those of us who could not enroll would be set back for a quarter. Additionally, relying on another department's courses reduces the flexibility of adapting the curriculum to fit the needs of an RSE program. So while I was on board with an RSE program starting with a reliance on another department to get off the ground, I asserted the importance of creating an independent curriculum to best meet the needs and goals of an RSE master's program.
+
+The first day of the conference wound down with a happy hour and gallery walk of all the poster projects that were on display, followed by a mentor/mentee ice cream social for the RSE student program. I had yet to see or hear anything of my mentor the whole day, so I joined up with another intern from SDSC and their mentor until my mentor arrived. After quickly going through introductions and learning a little bit more about my mentor, he wanted to know more about me, and how he could help me as a mentor. Apparently I had been carrying a lot of mental baggage in that moment, because what came next bordered on a rant, detailing the heavy course load with a midterm at the end of the week, a part time job as a tutor, and an internship at SDSC, on paper sounding like an impressively stacked resume, yet it still fails to bear fruit in such a hostile job market. I made it clear, both verbally and emotionally that it was all exhausting, and that it's almost dystopian that we have to sacrifice so much of our time and enjoyment just to get by. Hearing all of this, and the passion behind my frustration, my mentor suggesting something I'd never even think to do myself, go on stage and say exactly what I just told him in a Rapid Access Microtalk (RAM).[^1] Again, as a shy and anxious person, the thought never crossed my mind. I was hesitant to take him up on the offer, or challenge as I saw it at the time, but I came to this conference to step outside my comfort zone. Giving a microtalk is well outside my comfort zone, so I grabbed some index cards to jot down ideas later tonight.
+
+We left the conference somewhat late but just in time for dinner with the rest of SDSC. We all ordered a variety of foods, but everyone enjoyed it, so I'd say were two for two on the restaurants our project manager chose. Dinner was a good opportunity for us to slow down and recap our experience of the first day. Going in without any expectations, the first day left a good impression on me. I looked forward to what else would unfold, especially since I was still stirring with ideas in my head for the microtalk.
+
+Returning to the hotel, I understood the gravity of the situation I put myself into. I have a midterm that I still need to study for, in addition to keeping up with assignments for 3 other classes, now all on top of planning an entire talk that I decided to do entirely on a whim. I was not going to back out of it now, or anytime soon. It was already late in the night, so I brainstormed some topics and potential titles for my microtalk as pitches to my mentor, which would then be voted on by the conference attendees with all other microtalk pitches. But that would be a tomorrow problem, tonight I needed to get to bed soon to be up early once again for day two of the conference.
+
+[^1]: [Rapid Access Microtalks (RAM)](https://us-rse.org/usrse24/program/ram/)

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Building a Raytracer"
+title: "Creating a Cryptography Lecture"
 categories:
     - Projects
 tags:
+    - Python
+    - Jupyter
     - Math
     - Software Development
-    - Projects
 published: false
 comments: false
 ---
-
-temp
