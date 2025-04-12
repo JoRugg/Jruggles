@@ -6,7 +6,7 @@ categories:
 tags:
     - GIS
     - Urban Planning
-published: false
+published: true
 comments: false
 excerpt_separator:  <!--more-->
 ---
