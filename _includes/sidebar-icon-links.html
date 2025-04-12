@@ -2,24 +2,24 @@
     <a id="subscribe-link"
         class="icon" title="Subscribe" aria-label="Subscribe"
         href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
-    <i class="cib-rss"></i>
+    {% include svg/cib-rss.svg %}
     </a>
     <a id="linkedin-link"
         class="icon" title="LinkedIn" aria-label="LinkedIn"
         href="https://linkedin.com/in/jordanruggles">
-    <i class="cib-linkedin"></i>
+        {% include svg/cib-linkedin.svg %}
     </a>
     {% comment %}
     <a id="resume-link"
         class="icon" title="Download Resume" aria-label="Download Resume"
         href="">
-    <i class="cil-arrow-thick-to-bottom"></i>
+        {% include svg/cil-arrow-thick-to-bottom.svg %}
     </a>
     {% endcomment %}
     <a id="github-link"
         class="icon" title="Github Project" aria-label="Github Project"
         href="https://github.com/JoRugg/Jruggles">
-    <i class="cib-github"></i>
+        {% include svg/cib-github.svg %}
     </a>
 
     {% comment %}
@@ -40,7 +40,7 @@
          class="icon{% if page.url == '/tags' %} active{% endif %}"
          title="Tags" aria-label="Tags"
          href="{{ tags_page.url | relative_url }}">
-        <i class="cil-tag"></i>
+         {% include svg/cil-tag.svg %}
       </a>
     {% endif %}
   
@@ -49,7 +49,7 @@
          class="icon{% if page.url == '/search' %} active{% endif %}"
          title="Search" aria-label="Search"
          href="{{ search_page.url | relative_url }}">
-        <i class="cil-search"></i>
+         {% include svg/cil-search.svg %}
       </a>
     {% endif %}
   

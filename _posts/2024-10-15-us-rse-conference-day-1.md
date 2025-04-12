@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "US RSE Conference: Day 1"
+title: "US-RSE'24 Conference: Day 1"
 categories:
     - Career Blog
 tags:
     - Research Software Engineering
     - Software Development
-published: false
+published: true
 comments: false
 hidden: true
 ---

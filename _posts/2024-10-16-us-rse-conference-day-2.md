@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "US RSE Conference: Day 2"
+title: "US-RSE'24 Conference: Day 2"
 categories:
     - Career Blog
 tags:
