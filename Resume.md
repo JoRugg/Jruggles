@@ -13,12 +13,12 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 
 <div>
     <h3 class="work-title">University of California, San Diego</h3>
-    <div class="work-period">Graduating: June 2025</div>
+    <span class="work-period">Graduating: June 2025</span>
 </div>
 
 <div>
     <h4 class="work-title">B.S. Mathematics - Computer Science</h4>
-    <h4 class="work-period">GPA: 3.891</h4>
+    <h4 class="work-title work-period">GPA: 3.891</h4>
 </div>
 
 **Minors:** Urban Studies & Planning; Dance  
@@ -27,7 +27,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 <h2 class="section-title">{% include svg/cil-briefcase.svg %} Experience</h2>
 <div>
     <h3 class="work-title">San Diego Supercomputer Center: <br> Developer Intern</h3>
-    <div class="work-period">June 2023 - Present</div>
+    <span class="work-period">June 2023 - Present</span>
 </div>
 
 - Collaborating with ten developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
@@ -37,7 +37,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 
 <div>
     <h3 class="work-title">UC San Diego: CSE Tutor</h3>
-    <div class="work-period">September 2022 - Present</div>  
+    <span class="work-period">September 2022 - Present</span>  
 </div>
 
 - Aid students in understanding and solving programming assignments through one-on-one tutor sessions and class discussion boards.
