@@ -1,9 +1,13 @@
-<div>
-    {% if alt-heading %}
-        <h4 class="work-title" style="display:inline">{{include.title}}</h4>
-        <h4 class="work-period" style="float:right; padding-right:.5rem">{{include.date}}</h4>
-    {% else %}
-        <h3 class="work-title" style="display:inline">{{include.title}}</h3>
-        <span class="work-period" style="float:right; padding-right:.5rem">{{include.date}}</span>
-    {% endif %}
-</div>
+{% if include.icon%}
+    <h2 class="section-title" style="border-bottom: 2px solid black; padding-bottom: .25rem">{% include svg/cil-{{include.icon}}.svg %} {{include.title}}</h2>
+{% else %}
+    <div>
+        {% if include.alt-heading %}
+            <h4 class="work-title" style="display:inline">{{include.title}}</h4>
+            <h4 class="work-period" style="float:right; padding-right:.5rem">{{include.date}}</h4>
+        {% else %}
+            <h3 class="work-title" style="display:inline">{{include.title}}</h3>
+            <span class="work-period" style="float:right; padding-right:.5rem">{{include.date}}</span>
+        {% endif %}
+    </div>
+{% endif %}
