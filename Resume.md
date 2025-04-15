@@ -13,21 +13,21 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 
 ### University of California, San Diego
 
-{% include resume-heading.html title="B.S. Mathematics - Computer Science" date="GPA: 3.886" alt-heading:true %}
+{% include resume-heading.html title="B.S. Mathematics - Computer Science" date="GPA: 3.886" alt-heading=true %}
 
 **Minors:** Urban Studies & Planning; Dance  
 **Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization, Statistical Methods
 
 <h2 class="section-title">{% include svg/cil-briefcase.svg %} Experience</h2>
 
-{% include resume-h3.html title="San Diego Supercomputer Center: Developer Intern" date="June 2023 - Present"%}
+{% include resume-heading.html title="San Diego Supercomputer Center: Developer Intern" date="June 2023 - Present"%}
 
 - Collaborating with ten developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
 - Frequently transitioning between different areas of development, integrating and adjusting UI elements to best fit the needs and feedback of stakeholders.
 - Solving problems through effective communication between developers in daily meetings and pair programming sessions.
 - Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
-{% include resume-h3.html title="UC San Diego: CSE Tutor" date="September 2022 - Present"%}
+{% include resume-heading.html title="UC San Diego: CSE Tutor" date="September 2022 - Present"%}
 
 - Aid students in understanding and solving programming assignments through one-on-one tutor sessions and class discussion boards.
 - Deepened familiarity with and understanding of Java and C languages.
