@@ -8,14 +8,14 @@ sidebar_sort_order: 2
 <h2 class="section-title">{% include svg/cil-star.svg %} Objective</h2>
 
 ---
-{:style="margin:0"}
+{:style="0 0 margin:.25rem 0"}
 
 Earnest UCSD undergraduate seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. Punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities.
 
 <h2 class="section-title">{% include svg/cil-school.svg %} Education</h2>
 
 ---
-{:style="margin:0"}
+{:style="0 0 margin:.25rem 0"}
 
 {% include resume-heading.html title="University of California, San Diego" %}
 
@@ -27,7 +27,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 <h2 class="section-title">{% include svg/cil-briefcase.svg %} Experience</h2>
 
 ---
-{:style="margin:0"}
+{:style="margin: 0 0 .25rem 0"}
 
 {% include resume-heading.html title="San Diego Supercomputer Center: <br> Developer Intern" date="June 2023 - Present"%}
 
@@ -46,7 +46,7 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 <h2 class="section-title">{% include svg/cil-basketball.svg %} Extracurricular Activities</h2>
 
 ---
-{:style="margin:0"}
+{:style="margin: 0 0 .25rem 0"}
 
 {% include resume-heading.html title="Dance"%}
 
@@ -63,6 +63,6 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 <h2 class="section-title">{% include svg/cil-puzzle.svg %} Technical Skills</h2>
 
 ---
-{:style="margin:0"}
+{:style="margin: 0 0 .25rem 0"}
 
 Java, JUnit, JDB, C++, HTML, CSS, JavaScript, React, Python, Sage, Jupyter Notebooks, C, Assembly, GDB, Kotlin, Jetpack Compose, Git, Vim, Android Studio, MATLAB, Microsoft Office, Google Workspace, LaTeX, ArcGIS Pro
