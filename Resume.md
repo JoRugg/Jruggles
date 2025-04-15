@@ -5,7 +5,8 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-{% include resume-heading.html icon="star" title="Objective" %}
+<h2 class="section-title" style="border-bottom: 2px solid black; padding-bottom: .25rem">
+{% include svg/cil-star.svg %} Objective</h2>
 
 Earnest UCSD undergraduate seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. Punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities.
 
