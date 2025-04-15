@@ -7,11 +7,15 @@ sidebar_sort_order: 2
 
 <h2 class="section-title">{% include svg/cil-star.svg %} Objective</h2>
 
+---
+
 Earnest UCSD undergraduate seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. Punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities.
 
 <h2 class="section-title">{% include svg/cil-school.svg %} Education</h2>
 
-### University of California, San Diego
+---
+
+{% include resume-heading.html title="University of California, San Diego" %}
 
 {% include resume-heading.html title="B.S. Mathematics - Computer Science" date="GPA: 3.886" alt-heading=true %}
 
@@ -19,6 +23,8 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 **Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization, Statistical Methods
 
 <h2 class="section-title">{% include svg/cil-briefcase.svg %} Experience</h2>
+
+---
 
 {% include resume-heading.html title="San Diego Supercomputer Center: Developer Intern" date="June 2023 - Present"%}
 
@@ -36,18 +42,22 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 
 <h2 class="section-title">{% include svg/cil-basketball.svg %} Extracurricular Activities</h2>
 
-### Dance
+---
+
+{% include resume-heading.html title="Dance"%}
 
 - Actively communicated with coaches as color guard captain, lead warmups, and aided in choreographing routines.
 - Experimenting with the limits of the body and developing trust with dancers through ensemble and performances in and around UCSD.
 - Always willing to dive into new styles of movement and thinking.
 
-### Taekwondo
+{% include resume-heading.html title="Taekwondo"%}
 
 - Earned a 3rd Degree Black Belt through physical and mental dedication to master techniques and Poomsae.
 - Served as an assistant instructor, leading classes and applying a mastery of techniques to teach and train new students.
 - Maintaining knowledge of Taekwondo through active attendance and participation in UCSD's Taekwondo club.
 
 <h2 class="section-title">{% include svg/cil-puzzle.svg %} Technical Skills</h2>
+
+---
 
 Java, JUnit, JDB, C++, HTML, CSS, JavaScript, React, Python, Sage, Jupyter Notebooks, C, Assembly, GDB, Kotlin, Jetpack Compose, Git, Vim, Android Studio, MATLAB, Microsoft Office, Google Workspace, LaTeX, ArcGIS Pro
