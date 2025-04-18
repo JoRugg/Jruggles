@@ -61,11 +61,11 @@ Thoroughly analyzed research papers and applied communication skills from tutori
 ---
 {:style="margin: 0 0 .25rem 0"}
 
-{% include resume-heading.html title="Dance" date="2015-Present"%}
+{% include resume-heading.html title="Dance" date="2015 - Present"%}
 
 Building a strong, collaborative community with ensemble, performance, and social dances at UCSD and across San Diego. Always willing to dive into new styles of movement and thought.
 
-{% include resume-heading.html title="Taekwondo" date="2011-Present"%}
+{% include resume-heading.html title="Taekwondo" date="2011 - Present"%}
 
 Earned a 3rd Degree Black Belt through physical and mental discipline and mastery of technique. Served as an assistant instructor, leading classes to teach and train new students.
 
