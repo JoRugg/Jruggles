@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Colorado Wildfire Risk Assessment"
+title: "Wildfire Risk Assessment - Colorado"
 categories:
     - Projects
 tags:

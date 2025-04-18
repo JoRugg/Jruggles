@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Resume
+title: 
 sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-<h2 class="section-title">{% include svg/cil-star.svg %} Objective</h2>
+## {% include svg/cil-star.svg %} Objective
 
 ---
 {:style="margin:0 0 .25rem 0"}
 
-Earnest UCSD undergraduate seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. Punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities.
+Earnest UCSD graduating senior seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. A punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities.
 
-<h2 class="section-title">{% include svg/cil-school.svg %} Education</h2>
+## {% include svg/cil-school.svg %} Education
 
 ---
 {:style="margin: 0 0 .25rem 0"}
@@ -22,45 +22,54 @@ Earnest UCSD undergraduate seeking to explore fields beyond computer science thr
 {% include resume-heading.html title="B.S. Mathematics - Computer Science" date="GPA: 3.886" alt-heading=true %}
 
 **Minors:** Urban Studies & Planning; Dance  
-**Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization, Statistical Methods
+**Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization Methods for Data Science, Statistical Methods, Advanced GIS, Transportation Planning, Public Transportation
 
-<h2 class="section-title">{% include svg/cil-briefcase.svg %} Experience</h2>
+## {% include svg/cil-briefcase.svg %} Professional Experience
 
 ---
 {:style="margin: 0 0 .25rem 0"}
 
-{% include resume-heading.html title="San Diego Supercomputer Center: <br> Developer Intern" date="June 2023 - Present"%}
+{% include resume-heading.html title="San Diego Supercomputer Center: &#13 Developer Intern" date="Jun. 2023 - Present"%}
 
-- Collaborating with ten developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
-- Frequently transitioning between different areas of development, integrating and adjusting UI elements to best fit the needs and feedback of stakeholders.
+- Collaborating with a rotating team of developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
+- Frequently transitioning between different areas of development, creating and integrating new front-end UI elements to best fit the evolving needs of stakeholders.
 - Solving problems through effective communication between developers in daily meetings and pair programming sessions.
 - Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
-{% include resume-heading.html title="UC San Diego: CSE Tutor" date="September 2022 - Present"%}
+{% include resume-heading.html title="UC San Diego: &#13 CSE Tutor" date="Sep. 2022 - Present"%}
 
-- Aid students in understanding and solving programming assignments through one-on-one tutor sessions and class discussion boards.
-- Deepened familiarity with and understanding of Java and C languages.
-- Assist instructors grade assignments, proofread writeups, and communicate common questions from students so instructors could best adjust to accommodate student needs.
-- Applied prior knowledge and problem-solving workflow from other classes to guide students through debugging code and contextualizing course concepts in the assignments.
+- Aiding students in completing and debugging programming assignments via one-on-one tutoring and class discussion boards.
+- Deepening familiarity with and understanding of Java and C.
+- Communicating common questions from students to instructors, adapting to students’ learning to enable and ensure success.
+- Applying prior knowledge and problem-solving skills from previous classes to guide students through debugging code and contextualize course concepts in the assignments.
 
-<h2 class="section-title">{% include svg/cil-basketball.svg %} Extracurricular Activities</h2>
+## {% include svg/cil-puzzle.svg %} Project Experience
 
 ---
 {:style="margin: 0 0 .25rem 0"}
 
-{% include resume-heading.html title="Dance"%}
+{% include resume-heading.html title="Bicycle Infrastructure Analysis - Denver, Colorado"%}
 
-- Actively communicated with coaches as color guard captain, lead warmups, and aided in choreographing routines.
-- Experimenting with the limits of the body and developing trust with dancers through ensemble and performances in and around UCSD.
-- Always willing to dive into new styles of movement and thinking.
+Designed a poster in ArcGIS Pro, summarizing the distribution of bicycle infrastructure in maps and comparing against census income data in charts. Combined results with redlining research to assess the equitability of the distribution of Denver’s bicycle network.
 
-{% include resume-heading.html title="Taekwondo"%}
+{% include resume-heading.html title="Ellptic Curve Cryptography Lecture"%}
 
-- Earned a 3rd Degree Black Belt through physical and mental dedication to master techniques and Poomsae.
-- Served as an assistant instructor, leading classes and applying a mastery of techniques to teach and train new students.
-- Maintaining knowledge of Taekwondo through active attendance and participation in UCSD's Taekwondo club.
+Thoroughly analyzed research papers and applied communication skills from tutoring to synthesize an introductory lecture on Elliptic Curves over Non-prime Finite Fields. Developed a complementary problem set to gauge student understanding of the material.
 
-<h2 class="section-title">{% include svg/cil-puzzle.svg %} Technical Skills</h2>
+## {% include svg/cil-basketball.svg %} Hobbies
+
+---
+{:style="margin: 0 0 .25rem 0"}
+
+{% include resume-heading.html title="Dance" date="2015-Present"%}
+
+Building a strong, collaborative community with ensemble, performance, and social dances at UCSD and across San Diego. Always willing to dive into new styles of movement and thought.
+
+{% include resume-heading.html title="Taekwondo" date="2011-Present"%}
+
+Earned a 3rd Degree Black Belt through physical and mental discipline and mastery of technique. Served as an assistant instructor, leading classes to teach and train new students.
+
+## {% include svg/cil-code.svg %} Technical Skills
 
 ---
 {:style="margin: 0 0 .25rem 0"}

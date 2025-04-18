@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Denver Bike Safety Analysis"
+title: "Bicycle Infrastructure Analysis - Denver, Colorado"
 categories:
     - Projects
 tags:
@@ -13,7 +13,7 @@ excerpt_separator:  <!--more-->
 
 With the Winter quarter wrapping up and Spring break around the corner, I can take time to reflect on how I've progressed with GIS since first picking it up last Spring. For my final project, I opted to revisit the beautiful city of Denver, Colorado. I've already completed projects for two separate classes on the city by sheer happenstance. So I decided to have a go again, because I am nothing if not consistent. As someone who enjoys commuting by bicycle but is still aware of the risks, I wanted to explore the viability of cycling as a commute option in Denver. <!--more-->
 
-I sourced bike infrastructure data from the [Denver Open Data Catalog](https://data.denvergov.orgcreativecommons.org/licenses/by/3.0/), population and income data from [NHGIS](https://data2.nhgis.org/main), and historic redlining maps courtesy of [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/map/CO/Denver/areas#loc=12/39.7104/-104.9693). With it, I created several maps of current and planned cycling infrastructure overlaid with neighborhood income to help determine whether the distribution of cycling infrastructure is appropriate, equitable, and improves the viability of active travel for historically underserved communities in Denver. 
+I sourced bike infrastructure data from the [Denver Open Data Catalog](https://data.denvergov.orgcreativecommons.org/licenses/by/3.0/), population and income data from [NHGIS](https://data2.nhgis.org/main), and historic redlining maps courtesy of [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/map/CO/Denver/areas#loc=12/39.7104/-104.9693). With it, I created several maps of current and planned cycling infrastructure overlaid with neighborhood income to help determine whether the distribution of cycling infrastructure is appropriate, equitable, and improves the viability of active travel for historically underserved communities in Denver.
 
 ![Equity Analysis of Bicycle and Traffic Calming Infrastructure in Denver, Colorado Poster]({{site.baseurl}}/assets/images/DenverBikeAnalysis.jpg)
 
@@ -31,6 +31,6 @@ Overall, the association of bike and traffic calming infrastructure in Denver wi
 
 Car ownership is a barrier to low income and underserved communities, while job opportunities within walking or cycling distance are slim. Transportation is a basic need. Everyone needs income and a means of travel to access other essentials. Thus, providing safe, quality active and public transportation infrastructure is crucial ensure everyone has equal access to their city and the opportunities within.
 
-Working on this project, I'm satisfied with what I was able to research, plan, and deliver in a short two week timeframe. It is in no ways perfect, but I consider the analysis, and especially the presentation of my findings to be  a vast improvement compared to when I started last Spring. I want to continue improving my skills in GIS next quarter in the final course of this sequence and I would jump at the opportunity to revisit this or a similar topic in more depth. 
+Working on this project, I'm satisfied with what I was able to research, plan, and deliver in a short two week timeframe. It is in no ways perfect, but I consider the analysis, and especially the presentation of my findings to be  a vast improvement compared to when I started last Spring. I want to continue improving my skills in GIS next quarter in the final course of this sequence and I would jump at the opportunity to revisit this or a similar topic in more depth.
 
 [^1]: For more information on traffic calming and different calming measures, I recommend [these fact sheets](https://www.ite.org/technical-resources/traffic-calming/traffic-calming-measures/) from the Institute of Transportation Engineers.
