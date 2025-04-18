@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Resume
 sidebar_link: true
 sidebar_sort_order: 2
 ---
@@ -29,14 +29,14 @@ Earnest UCSD graduating senior seeking to explore fields beyond computer science
 ---
 {:style="margin: 0 0 .25rem 0"}
 
-{% include resume-heading.html title="San Diego Supercomputer Center: &#13 Developer Intern" date="Jun. 2023 - Present"%}
+{% include resume-heading.html title="San Diego Supercomputer Center: &#13; Developer Intern" date="Jun. 2023 - Present"%}
 
 - Collaborating with a rotating team of developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
 - Frequently transitioning between different areas of development, creating and integrating new front-end UI elements to best fit the evolving needs of stakeholders.
 - Solving problems through effective communication between developers in daily meetings and pair programming sessions.
 - Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
-{% include resume-heading.html title="UC San Diego: &#13 CSE Tutor" date="Sep. 2022 - Present"%}
+{% include resume-heading.html title="UC San Diego: &#13; CSE Tutor" date="Sep. 2022 - Present"%}
 
 - Aiding students in completing and debugging programming assignments via one-on-one tutoring and class discussion boards.
 - Deepening familiarity with and understanding of Java and C.
