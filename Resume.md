@@ -52,7 +52,7 @@ Earnest UCSD graduating senior seeking to explore fields beyond computer science
 
 Designed a poster in ArcGIS Pro, summarizing the distribution of bicycle infrastructure in maps and comparing against census income data in charts. Combined results with redlining research to assess the equitability of the distribution of Denver’s bicycle network.
 
-{% include resume-heading.html title="Ellptic Curve Cryptography Lecture"%}
+{% include resume-heading.html title="Elliptic Curve Cryptography Lecture"%}
 
 Thoroughly analyzed research papers and applied communication skills from tutoring to synthesize an introductory lecture on Elliptic Curves over Non-prime Finite Fields. Developed a complementary problem set to gauge student understanding of the material.
 
