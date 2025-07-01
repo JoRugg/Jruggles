@@ -31,17 +31,17 @@ Earnest UCSD graduating senior seeking to explore fields beyond computer science
 
 {% include resume-heading.html title="San Diego Supercomputer Center: <br /> Developer Intern" date="Jun. 2023 - Jun. 2025"%}
 
-- Collaborating with a rotating team of developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
-- Frequently transitioning between different areas of development, creating and integrating new front-end UI elements to best fit the evolving needs of stakeholders.
-- Solving problems through effective communication between developers in daily meetings and pair programming sessions.
+- Collaborated with a rotating team of developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
+- Frequently transitioned between different areas of development, creating and integrating new front-end UI elements to best fit the evolving needs of stakeholders.
+- Solved problems through effective communication between developers in daily meetings and pair programming sessions.
 - Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
 {% include resume-heading.html title="UC San Diego: <br /> CSE Tutor" date="Sep. 2022 - Jun. 2025"%}
 
-- Aiding students in completing and debugging programming assignments via one-on-one tutoring and class discussion boards.
-- Deepening familiarity with and understanding of Java and C.
-- Communicating common questions from students to instructors, adapting to students’ learning to enable and ensure success.
-- Applying prior knowledge and problem-solving skills from previous classes to guide students through debugging code and contextualize course concepts in the assignments.
+- Aided students in completing and debugging programming assignments via one-on-one tutoring and class discussion boards.
+- Deepened familiarity with and understanding of Java and C.
+- Communicated common questions from students to instructors, adapting to students’ learning to enable and ensure success.
+- Applied prior knowledge and problem-solving skills from previous classes to guide students through debugging code and contextualize course concepts in the assignments.
 
 ## {% include svg/cil-puzzle.svg %} Project Experience
 
