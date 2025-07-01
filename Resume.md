@@ -17,9 +17,9 @@ Earnest UCSD graduating senior seeking to explore fields beyond computer science
 ---
 {:style="margin: 0 0 .25rem 0"}
 
-{% include resume-heading.html title="University of California, San Diego" %}
+{% include resume-heading.html title="University of California, San Diego" date="Graduated: Jun. 2025"%}
 
-{% include resume-heading.html title="B.S. Mathematics - Computer Science" date="GPA: 3.886" alt-heading=true %}
+{% include resume-heading.html title="B.S. Mathematics - Computer Science" date="GPA: 3.89" alt-heading=true %}
 
 **Minors:** Urban Studies & Planning; Dance  
 **Coursework:** Algorithms, Computation Theory, Cryptography, Data Structures, Applied Algebra, Calculus, Cryptography, Enumerative Combinatorics, Number Theory, Numerical Analysis, Optimization Methods for Data Science, Statistical Methods, Advanced GIS, Transportation Planning, Public Transportation
@@ -29,14 +29,14 @@ Earnest UCSD graduating senior seeking to explore fields beyond computer science
 ---
 {:style="margin: 0 0 .25rem 0"}
 
-{% include resume-heading.html title="San Diego Supercomputer Center: <br /> Developer Intern" date="Jun. 2023 - Present"%}
+{% include resume-heading.html title="San Diego Supercomputer Center: <br /> Developer Intern" date="Jun. 2023 - Jun. 2025"%}
 
 - Collaborating with a rotating team of developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
 - Frequently transitioning between different areas of development, creating and integrating new front-end UI elements to best fit the evolving needs of stakeholders.
 - Solving problems through effective communication between developers in daily meetings and pair programming sessions.
 - Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
-{% include resume-heading.html title="UC San Diego: <br /> CSE Tutor" date="Sep. 2022 - Present"%}
+{% include resume-heading.html title="UC San Diego: <br /> CSE Tutor" date="Sep. 2022 - Jun. 2025"%}
 
 - Aiding students in completing and debugging programming assignments via one-on-one tutoring and class discussion boards.
 - Deepening familiarity with and understanding of Java and C.
