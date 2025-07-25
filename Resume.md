@@ -50,7 +50,7 @@ Earnest UC San Diego graduate seeking to explore fields beyond computer science 
 
 {% include resume-heading.html title="Bicycle Infrastructure Analysis - Denver, Colorado"%}
 
-Designed a poster in ArcGIS Pro, summarizing the distribution of bicycle infrastructure in maps and comparing against census income data in charts. Combined results with redlining research to assess the equitability of the distribution of Denver’s bicycle network.
+Designed a poster in ArcGIS Pro, summarizing the distribution of bicycle infrastructure in maps and comparing against census income data in charts. Combined results with redlining research to assess equitability of the distribution of Denver’s bicycle network.
 
 {% include resume-heading.html title="Elliptic Curve Cryptography Lecture"%}
 
