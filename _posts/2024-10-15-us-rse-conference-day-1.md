@@ -9,6 +9,7 @@ tags:
 published: true
 comments: false
 hidden: true
+excerpt_separator:  <!--more-->
 ---
 
 Waking up early is something I'm used to with 8 a.m. classes and a long commute to school, but the time change was not doing me any favors. After some initial confusion trying to find the correct conference hall in the convention center, I sat down with the rest of SDSC for breakfast before the conference officially kicked off with an introductory keynote on the history and trajectory of the US-RSE Association. To my surprise, the US-RSE Association is relatively young, and this is only their second conference ever, which was hard to believe with how full and well organized everything was. Props to everyone that made this conference possible. <!--more-->

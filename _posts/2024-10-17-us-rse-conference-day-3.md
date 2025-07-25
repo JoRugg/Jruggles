@@ -9,6 +9,7 @@ tags:
 published: true
 comments: false
 hidden: true
+excerpt_separator:  <!--more-->
 ---
 
 I woke up this morning and immediately went back to finalizing my microtalk. Whether or not I had everything that I wanted to say on the tiny index card was more or less irrelevant now. All of my focus was now on memorizing, or at least familiarizing myself with each of my main points so I wouldn't end up tripping over my words on stage. I don't remember how many additional rewrites I did that morning, but by the time I got to the convention center, I had started typing out my notes on my phone for more space and guidance with what I wanted to say. The bright side is that, in lieu of a recording, I now have a rough transcript of the microtalk for archival purposes.

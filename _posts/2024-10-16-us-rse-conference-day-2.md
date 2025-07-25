@@ -9,6 +9,7 @@ tags:
 published: true
 comments: false
 hidden: true
+excerpt_separator:  <!--more-->
 ---
 
 With the newfound stress of planning and potentially giving a microtalk now on my plate, I approached today with a very different attitude compared to yesterday, one of stress and priorities. Starting again with breakfast and a keynote speech, I switched back into student mode by trying to complete a recently released practice midterm and create a note sheet in preparation for my math midterm on Friday. In that moment, the weight of my situation felt like it was all ironically collapsing around me; a student attempting to multitask by studying at breakfast, attending a conference with the spoken goal of enrichment and the underlying goal of trying get jobs through networking, skipping the classes that should be my main priority as a student, all in addition to trying to write a speech about the very chaos I just described. In a way, the irony of the situation and me writing it out acted as self-affirmation of my frustrations, further bolstering my confidence in this speech and motivation to write it.

@@ -10,7 +10,7 @@ sidebar_sort_order: 2
 ---
 {:style="margin:0 0 .25rem 0"}
 
-Earnest UCSD graduating senior seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. A punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities.
+Earnest UC San Diego graduate seeking to explore fields beyond computer science through academic and entry-level positions. Ready to apply programming and analytical skills sharpened by learning, practicing, and teaching. A punctual communicator who values the diversity of ideas and experiences present in collaborative settings. Desiring the challenge of complex problems to propel human and societal progress while gaining valuable experience in preparation for future career opportunities. 
 
 ## {% include svg/cil-school.svg %} Education
 
@@ -63,7 +63,8 @@ Thoroughly analyzed research papers and applied communication skills from tutori
 
 {% include resume-heading.html title="Dance" date="2015 - Present"%}
 
-Building a strong, collaborative community with ensemble, performance, and social dances at UCSD and across San Diego. Always willing to dive into new styles of movement and thought.
+Building a strong, collaborative community with ensemble, performance, and social dances at and around UC San Diego. Always willing to dive into new styles of movement and thought. 
+
 
 {% include resume-heading.html title="Taekwondo" date="2011 - Present"%}
 
