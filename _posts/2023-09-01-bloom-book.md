@@ -1,0 +1,30 @@
+---
+layout: post
+title: "SDSC Summer Internship: Bloom Book"
+categories:
+    - Projects
+tags:
+    - Research Software Engineering
+    - Software Development
+published: true
+comments: false
+excerpt_separator:  <!--more-->
+---
+
+Towards the end of my second year at UCSD, I felt a strong sense of peer pressure from friends, family, and classmates to secure a summer internship to gain valuable field experiences in preparation for my future career. I began my search in the middle of spring quarter, but with my time and energy split between classes and tutoring, I missed the deadlines for quite a few internship opportunities, and the few that I did apply for went radio silent shortly after. Career fairs were similarly fruitless with nothing truly grabbing my interest or appealing to my qualifications, as paradoxical as it seems that an internship is hyper-competitive with strict qualifications since the whole point of an internship is to learn new skills you otherwise could not.<!--more-->
+
+Frustration aside, in the midst of my scrolling, I stumbled across an internship with the San Diego Supercomputer Center (SDSC). With a relatively straightforward application process, I submitted my application as a developer intern, not thinking much more of it until receiving an email offer shortly after the end of the quarter, which I promptly accepted. My summer schedule was quickly falling into place as I was also enrolled in a summer class and was set to tutor another class at the same time. Regardless, this was about to be a challenge of how well I could manage my time and meet all my various deadlines.
+
+The first week of the program started with a series of large Zoom calls, where we covered introductions, the basic overview of the program, our group assignments, and the brainstorming of our product idea that we would be developing for the next nine weeks.[^1] The first couple of team meetings were relatively quiet and awkward as Zoom calls tend to be, but the atmosphere quickly warmed up as we grew more accustomed to each other. By the end of the first week, we agreed on our project, a mobile app that consolidated plant care instructions and schedules in one convenient place. We drafted some mock-ups in Figma and under the working, soon to be permanent, title of "Bloom Book," pitched our app to the project leads and other interns while also getting to see all the various projects other project groups came up with and would be working on, from mobile and web apps, to a full on game for one group.
+
+Going into the first official sprint of the program, we needed to agree on how we would be developing this app. A primary goal of the program was introducing us to the Agile Development methodology, and GitLab was our main tool for facilitating the planning process for each sprint. I found using GitLab to be familiar enough to GitHub that transitioning from one to the other was a relatively straightforward affair. For developing our mobile app, we researched and agreed that Android Studio would be the best choice of IDE and Kotlin as our language of choice for its similarity to JavaScript. With some of the major logistical hurdles out of the way, we designated roles based on what we believed were essential features of our app, our programming skills, and our preferences for what area of development we were most interested in learning about.
+
+I had some light exposure to web development in high school, so I was primarily interested in figuring out the transferability of my skill set from web to mobile frontend development. With help from another developer experienced in UI/UX design, we implemented a majority of the frontend features and overarching style of the app. Towards the midpoint of the project most of the frontend features had been roughly established, so I switched to trying to aid with backend development and integration. While I was completely out of my expertise trying to work with database calls and storage, through some rough trial and error, I was successfully able to populate the app pages with user data following a successful login. I know it sounds fairly trivial when I actually write it out, but with no background knowledge in how this is all supposed to work and repeatedly screwing it up with a looming deadline, it was a big deal at that moment.
+
+By the end of the program, we were nowhere close to implementing all the intended features, so we channeled all our efforts into polishing what we had for a final demo build, and preparing our presentation for the final product showcase. Like just about any development project, we were all working through the night before the showcase to ensure everything was finalized and in working order for tomorrow's demonstration. Come the day of the showcase, we saw the final products of the other groups after only seeing screenshots and short demos. Some groups, ours included, launched their products either through a website or downloadable file for everyone at the showcase to experience hands-on.[^2] It was astonishing to see what robust and comprehensive products we were all able to create in 10 short weeks. Our group received several high praises about the depth and quality of our app's presentation, with some going as far as to suggest a complete launch if we were given a few more weeks of development. In fact, just about every product looked ready for a full launch with just a little more time.
+
+With the conclusion of the summer internship program, I was presented an offer to continue interning for SDSC. I would be working to develop an online database for a medical research lab on campus, with a new team and new skills to learn for web development as opposed to mobile development. I accepted the offer without hesitation and look forward to seeing where this opportunity can take me and what I will learn along the way.
+
+
+[^1]: [SDSC Summer Internship Wiki, 2023](https://sdsc-ucsd.atlassian.net/wiki/spaces/SRSI23/overview)
+[^2]: [Bloom Book Website](https://akanksha-maker-ucsd.github.io/bloomBook/)

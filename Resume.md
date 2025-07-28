@@ -29,14 +29,14 @@ Earnest UC San Diego graduate seeking to explore fields beyond computer science 
 ---
 {:style="margin: 0 0 .25rem 0"}
 
-{% include resume-heading.html title="San Diego Supercomputer Center: <br /> Developer Intern" date="Jun. 2023 - Jun. 2025"%}
+{% include resume-heading.html title="San Diego Supercomputer Center: <br />Developer Intern" date="Jun. 2023–Jun. 2025"%}
 
 - Collaborated with a rotating team of developers to modernize an Alzheimer's research database, built with React, SQL, and Go.
 - Frequently transitioned between different areas of development, creating and integrating new front-end UI elements to best fit the evolving needs of stakeholders.
 - Solved problems through effective communication between developers in daily meetings and pair programming sessions.
 - Researched and experimented with code to become familiar with mobile app development and the capabilities of Kotlin and Jetpack Compose.
 
-{% include resume-heading.html title="UC San Diego: <br /> CSE Tutor" date="Sep. 2022 - Jun. 2025"%}
+{% include resume-heading.html title="UC San Diego: <br />CSE Tutor" date="Sep. 2022–Jun. 2025"%}
 
 - Aided students in completing and debugging programming assignments via one-on-one tutoring and class discussion boards.
 - Deepened familiarity with and understanding of Java and C.
@@ -61,12 +61,12 @@ Thoroughly analyzed research papers and applied communication skills from tutori
 ---
 {:style="margin: 0 0 .25rem 0"}
 
-{% include resume-heading.html title="Dance" date="2015 - Present"%}
+{% include resume-heading.html title="Dance" date="2015–Present"%}
 
 Building a strong, collaborative community with ensemble, performance, and social dances at and around UC San Diego. Always willing to dive into new styles of movement and thought. 
 
 
-{% include resume-heading.html title="Taekwondo" date="2011 - Present"%}
+{% include resume-heading.html title="Taekwondo" date="2011–Present"%}
 
 Earned a 3rd Degree Black Belt through physical and mental discipline and mastery of technique. Served as an assistant instructor, leading classes to teach and train new students.
 
